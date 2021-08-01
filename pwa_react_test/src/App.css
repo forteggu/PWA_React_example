@@ -7,7 +7,7 @@ html, body, #root {
 }
 
 .main-container {
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('https://wallpapertag.com/wallpaper/full/c/8/3/851167-weather-desktop-background-1920x1080-download.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('./images/bg.jpg');
     background-size: cover;
     background-position: center;
 }
